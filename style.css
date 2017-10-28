@@ -1,0 +1,96 @@
+*{
+  font-family: sans-serif;
+  border: dashed black 2px;
+}
+body{
+  width: 80%;
+  margin: 0 auto;
+}
+
+div{
+margin-left: 62px;
+position: relative;
+
+}
+.bodyP{
+position: relative;
+width:94%;
+text-indent: 50px;
+
+}
+.header {
+  font-family: sans-serif;
+  display: block;
+  width:50%;
+height:20%;
+position:relative;
+
+}
+/**/
+.headerUL{
+  list-style-type: none;
+  display: inline;
+}
+
+h1{
+  display: inline;
+  font-family: sans-serif;
+}
+
+h2{
+  display: inline;
+  font-family: cursive;
+}
+.logo{
+  display: inline;
+}
+
+ul{
+
+  list-style-type: none;
+  display: inline;
+
+
+}
+img ul li{
+  display: inline;
+}
+.headerUL li{
+  display: inline;
+
+}
+.listImg{
+  position: absolute ;
+  display: block;
+
+}
+
+.imgOverlay{
+  position: absolute ;
+  display: inline;
+  z-index: 100;
+}
+hr{
+  height: 20px;
+	background: url(http://ibrahimjabbari.com/english/images/hr-11.png) repeat-x 0 0;
+    border: 0;
+    width: 88%
+
+}
+
+footer{
+  position: relative;
+}
+button{
+  position: relative;
+  margin:0px 50px 20px 0px;
+  float: right;
+  display: inline;
+background-color:orange;
+border: none;
+color: white;
+margin-top: 28px;
+padding: 15px 32px;
+text-align: center;
+text-decoration: none;
+}
